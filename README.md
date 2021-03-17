@@ -9,6 +9,7 @@ I recommend this book  to someone who know python and have interest about machin
 - Author: 박해선 
 - Publisher: 한및미디어(Hanbit Media, Inc)
 - URL: <https://www.hanbit.co.kr/store/books/look.php?p_code=B2002963743>
+- Blog: <https://tensorflow.blog/>
 
 ## Index
 ### 1. Base of Machine Learning
