@@ -5,7 +5,7 @@ I attached comment in this code and modified little.
 I recommend this book  to someone who know python and have interest about machine learning but beginner.  
 
 ## Book Configuration
-- Book name: "혼자 공부하는 머신러닝 + 립러닝
+- Book name: "혼자 공부하는 머신러닝 + 립러닝"
 - Author: 박해선 
 - Publisher: 한및미디어(Hanbit Media, Inc)
 - URL: <https://www.hanbit.co.kr/store/books/look.php?p_code=B2002963743>
