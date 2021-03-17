@@ -9,3 +9,18 @@
 
 
 ## Index
+### 1. Base of Machine Learning
+- Ch 01-3 K-Nearest Neighbors
+
+### 2. Data Handling
+- Ch 02-1 Data Sampling
+- Ch 02-2 Data Processing
+
+### 3. Regression & Regularization
+- Ch 03-1 K-Nearest Neighbors Regression
+- Ch 03-2 Linear Regression
+- Ch 03-3 Feature Engineering & Regularization
+
+### 4. Classification Algorithm
+- Ch 04-1 Logistic Regression
+- Ch 04-2 Stochastic Gradient Descent
