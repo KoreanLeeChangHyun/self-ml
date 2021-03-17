@@ -10,7 +10,7 @@
 
 ## Index
 ### 1. Base of Machine Learning
-- Ch 01-3 K-Nearest Neighbors
+- [Ch 01-3 K-Nearest Neighbors](https://colab.research.google.com/drive/1yXOx4z9wUo4_ZjcZtXC64WjmgyKHpZPC#scrollTo=VG1dBP8DwAvE)
 
 ### 2. Data Handling
 - Ch 02-1 Data Sampling
