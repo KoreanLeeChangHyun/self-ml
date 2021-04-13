@@ -1,8 +1,12 @@
 # Machine Learning 
-I study machine learning with book.  
-These codes have been written which depend on book example.  
-I attached comment in this code and modified little.  
-I recommend this book  to someone who know python and have interest about machine learning but beginner.  
+- 이 글은 머신러닝과 딥러닝을 독학하면서 남기는 코드 및 주석이다.
+- 이 글은 머신러닝 관련 책을 읽고 책에 나오는 예제 코드를 기반으로 작성 되었다.
+- 나는 책의 예제 코드에 필요한 코드를 추가로 넣었고 대부분의 코드에 내가 이해한 주석을 달았다.
+- 이 책은 파이썬을 사용 할 수 있는 사람 누구나 쉽게 머신러닝을 배울 수 있는 좋은 책이라 생각한다.
+- 책에 대한 정보는 아래에 나와있다.  
+
+** 이 글에는 책의 예제 코드가 포함 되어있는데 만약 저작권에 문제가 된다면 이 글을 내리겠다.
+
 
 ## Book Configuration
 - Book name: "혼자 공부하는 머신러닝 + 립러닝"
@@ -12,8 +16,11 @@ I recommend this book  to someone who know python and have interest about machin
 - Blog: <https://tensorflow.blog/>
 
 ## Index
+- 책의 내용을 전반적으로 정리한 목차이다. 
+
 ### 1. Base of Machine Learning
-- [Ch 01-3 K-Nearest Neighbors](https://colab.research.google.com/drive/1yXOx4z9wUo4_ZjcZtXC64WjmgyKHpZPC#scrollTo=VG1dBP8DwAvE)
+- [Ch 01-3 K-Nearest Neighbors](https://colab.research.google.com/drive/1yXOx4z9wUo4_ZjcZtXC64WjmgyKHpZPC#scrollTo=VG1dBP8DwAvE)  
+  -> K-Nearest Neighbors (KNN) 알고리즘을 이용하여 2가지의 데이터(도미 or 빙어)를 구분하는 방법을 배운다.
 
 ### 2. Data Handling
 - [Ch 02-1 Data Sampling](https://colab.research.google.com/drive/1Rkf4Kat1H7rSzYzj9lZr6peSoiV61T6k)
