@@ -5,7 +5,7 @@
 - 이 책은 파이썬을 사용 할 수 있는 사람 누구나 쉽게 머신러닝을 배울 수 있는 좋은 책이라 생각한다.
 - 책에 대한 정보는 아래에 나와있다.  
 
-** 이 글에는 책의 예제 코드가 포함 되어있는데 만약 저작권에 문제가 된다면 이 글을 내리겠다.
+** 이 글에는 책의 예제 코드가 포함 되어있는데 만약 저작권에 문제가 된다면 Private로 변경하겠음
 
 
 ## Book Configuration
@@ -23,8 +23,10 @@
   -> K-Nearest Neighbors (KNN) 알고리즘을 이용하여 2가지의 데이터(도미 or 빙어)를 구분하는 방법을 배운다.
 
 ### 2. Data Handling
-- [Ch 02-1 Data Sampling](https://colab.research.google.com/drive/1Rkf4Kat1H7rSzYzj9lZr6peSoiV61T6k)
-- [Ch 02-2 Data Processing](https://colab.research.google.com/drive/14Tf9_xueWkQuSVQ99vqXQ1rjKEr7IohS)
+- [Ch 02-1 Data Sampling](https://colab.research.google.com/drive/1Rkf4Kat1H7rSzYzj9lZr6peSoiV61T6k)  
+  -> Data set을 샘플링하여 train_data 와 test_data로 나눈 후, train_data로 훈련을 하고 test_data로 평가 하는 법을 배운다. 
+- [Ch 02-2 Data Preprocessing](https://colab.research.google.com/drive/14Tf9_xueWkQuSVQ99vqXQ1rjKEr7IohS)  
+  -> Data들의 특성(Feature)이 다름을 알고 특성들을 표준화하는 데이터 전처리 하는 과정을 배운다.
 
 ### 3. Regression & Regularization
 - [Ch 03-1 K-Nearest Neighbors Regression](https://colab.research.google.com/drive/1lSt3nkgt11zTFyJoFoBwAi2nkWU6xZIp)
