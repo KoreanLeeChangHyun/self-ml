@@ -29,12 +29,12 @@
   -> Data들의 특성(Feature)이 다름을 알고 특성들을 표준화하는 데이터 전처리 하는 과정을 배운다.
 
 ### 3. Regression & Regularization
-- [Ch 03-1 K-Nearest Neighbors Regression](https://colab.research.google.com/drive/1lSt3nkgt11zTFyJoFoBwAi2nkWU6xZIp)
+- [Ch 03-1 K-Nearest Neighbors Regression](https://colab.research.google.com/drive/1lSt3nkgt11zTFyJoFoBwAi2nkWU6xZIp)  
   ->  K-Nearest Neighbors Regression (KNN 회귀) 알고리즘을 이용하여 데이터 값(농어의 무게)을 예측하는 방법을 배운다. 
-- [Ch 03-2 Linear Regression](https://colab.research.google.com/drive/1D44ArmjHiKhax1RZFvzbYFFiQDTNAqmx)
-- [Ch 03-3 Feature Engineering & Regularization](https://colab.research.google.com/drive/1Ta_GuxMpSuTAjOWthtw-ypdhL8cDPsDk)
+- [Ch 03-2 Linear Regression](https://colab.research.google.com/drive/1D44ArmjHiKhax1RZFvzbYFFiQDTNAqmx)  
+- [Ch 03-3 Feature Engineering & Regularization](https://colab.research.google.com/drive/1Ta_GuxMpSuTAjOWthtw-ypdhL8cDPsDk)  
 
 ### 4. Classification Algorithm
-- [Ch 04-1 Logistic Regression](https://colab.research.google.com/drive/1BlugdxpDcp99WqlTgmr_60Docqf6U9QZ)
-- [Ch 04-2 Stochastic Gradient Descent](https://colab.research.google.com/drive/1J7WeMTKyiwxAEWXOzpPGmoZ0BUXwlR6z)
+- [Ch 04-1 Logistic Regression](https://colab.research.google.com/drive/1BlugdxpDcp99WqlTgmr_60Docqf6U9QZ)  
+- [Ch 04-2 Stochastic Gradient Descent](https://colab.research.google.com/drive/1J7WeMTKyiwxAEWXOzpPGmoZ0BUXwlR6z)  
 
