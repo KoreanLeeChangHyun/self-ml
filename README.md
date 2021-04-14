@@ -38,8 +38,3 @@
 - [Ch 04-1 Logistic Regression](https://colab.research.google.com/drive/1BlugdxpDcp99WqlTgmr_60Docqf6U9QZ)
 - [Ch 04-2 Stochastic Gradient Descent](https://colab.research.google.com/drive/1J7WeMTKyiwxAEWXOzpPGmoZ0BUXwlR6z)
 
-
-## key Word
-- 목차에 나오지 않지만 머신러닝에서 사용되는 주요 단어들을 정리 한다.
-- 샘플링 편향
-- 과대 & 과소 적합
